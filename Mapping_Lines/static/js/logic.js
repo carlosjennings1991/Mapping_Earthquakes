@@ -5,19 +5,47 @@ console.log("working");
 let map = L.map('mapid').setView([37.6213, -122.3790], 5);
 
 // Coordinates for each point to be used in the line.
-let line = [
+let lines = [
     [33.9416, -118.4085],
     [29.9902, -95.3368],
     [43.6777, -79.6248],
     [40.6413, -73.7781]
 ];
 
+var locations = [
+    ['Los Angeles'],
+    ['Houston'],
+    ['Toronto'],
+    ['New York']
+];
+
+
+
 // Create a polyline using the line coordinates and make the line red.
-L.polyline(line, {
+L.polyline(lines, {
     color: "blue",
     weight: 4,
     opacity: 0.5,
     dashArray: '5,10'
+}).addTo(map);
+
+// loop through the line array and add markers
+lines.forEach(function(line) {
+    L.marker(line).addTo(map);
+})
+
+// Create a polygon
+let polyg = [
+    [41.000, -109.050],
+    [36.999, -109.045],
+    [36.993, -102.042],
+    [41.002, -102.051]
+];
+
+// create the polygon
+L.polygon(polyg, {
+    color: 'red',
+    opacity: 0.3
 }).addTo(map);
 
 
