@@ -29,6 +29,12 @@ This map shows only the major quakes, i.e those 4.5 and greater.
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map2.png">
 
-## Map 3: Marjor Earthquakes + Fault Lines on the Satellite Layer
+## Map 3: Major Earthquakes + Fault Lines on the Satellite Layer
+
+This map shows the major earthquakes and the tectonic plates (i.e the fault lines) but on a different tile layer, as seen on the control panel. 
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map3.png">
+
+## Map 4: 
+
+<img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map3_5.png">
