@@ -29,6 +29,6 @@ This map shows only the major quakes, i.e those 4.5 and greater.
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map2.png">
 
-## Map 3: 
+## Map 3: Marjor Earthquakes + Fault Lines on the Satellite Layer
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map3.png">
