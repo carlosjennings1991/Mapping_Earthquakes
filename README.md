@@ -35,6 +35,14 @@ This map shows the major earthquakes and the tectonic plates (i.e the fault line
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map3.png">
 
-## Map 4: 
+## Map 4: Night Navigation Layer
+
+This map shows major earthquakes + fault lines but on the night navigation layer. 
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map3_5.png">
+
+## Map 5: Day Navigation Layer
+
+This map shows major earthquakes + fault lines but on the day navigation layer. 
+
+<img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map4.png">
