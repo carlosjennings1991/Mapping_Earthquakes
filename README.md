@@ -7,4 +7,7 @@ For this analysis, we plot earthquakes, major earthquakes and the tectonic plate
 Live website can be found here - https://carlosjennings1991.github.io/Mapping_Earthquakes/
 
 ## Resources
+- [x] JavaScript (d3, leaflet)
+- [x] GeoJSON files 
+- [x] HTML
 - [x] CSS
