@@ -23,11 +23,15 @@ This map shows every recent earthquake and the tectonic plate fault lines where 
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map1.png">
 
+<br>
+
 ## Map 2: Major Earthquakes
 
 This map shows only the major quakes, i.e those 4.5 and greater. 
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map2.png">
+
+<br>
 
 ## Map 3: Major Earthquakes + Fault Lines on the Satellite Layer
 
@@ -35,11 +39,15 @@ This map shows the major earthquakes and the tectonic plates (i.e the fault line
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map3.png">
 
+<br>
+
 ## Map 4: Night Navigation Layer
 
 This map shows major earthquakes + fault lines but on the night navigation layer. 
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map3_5.png">
+
+<br>
 
 ## Map 5: Day Navigation Layer
 
