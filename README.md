@@ -17,3 +17,8 @@ Live website can be found here - https://carlosjennings1991.github.io/Mapping_Ea
 
 ___
 
+## Map 1: Earthquakes and Tectonic Data
+
+This map shows every recent earthquake and the tectonic plate fault lines where they occurred. Size and color correlate to the magnitude of the quake i.e the greater the magnitude the redder and larger the circle. 
+
+<img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map1.png">
