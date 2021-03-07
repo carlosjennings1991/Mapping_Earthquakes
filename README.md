@@ -22,3 +22,9 @@ ___
 This map shows every recent earthquake and the tectonic plate fault lines where they occurred. Size and color correlate to the magnitude of the quake i.e the greater the magnitude the redder and larger the circle. 
 
 <img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map1.png">
+
+## Map 2: Major Earthquakes
+
+This map shows only the major quakes, i.e those 4.5 and greater. 
+
+<img src="https://github.com/carlosjennings1991/Mapping_Earthquakes/blob/main/map2.png">
