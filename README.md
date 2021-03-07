@@ -11,7 +11,7 @@ Live website can be found here - https://carlosjennings1991.github.io/Mapping_Ea
 - [x] CSS
 - [x] JavaScript (d3, leaflet)
 - [x] GeoJSON files 
-  - [] (tectonic plate file) https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
-  - [] (all earthquakes file) https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
-  - [] (major earthquakes file) var majorQuakes = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson";
+  - [x] (tectonic plate file) https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+  - [x] (all earthquakes file) https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+  - [x] (major earthquakes file) var majorQuakes = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson";
 
